@@ -1,0 +1,10 @@
+/*
+Theme Name: Tema Profesional CMS
+Author: Giselle Chavez
+Description: Desarrollo web con WordPress
+Version: 1.0
+*/
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f4; }
+header { background: #0056b3; color: #fff; padding: 30px; text-align: center; }
+.container { max-width: 900px; margin: 40px auto; padding: 20px; background: #fff; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+h2 { color: #333; }
